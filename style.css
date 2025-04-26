@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
